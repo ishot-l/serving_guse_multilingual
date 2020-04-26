@@ -1,0 +1,2 @@
+# serving_guse_multilingual
+Google Universal Sentence EncoderをTensorflow Servingで実行するためのDockerfile
